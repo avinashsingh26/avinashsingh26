@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an aspiring **Frontend Developer** focused on building clean, responsive, and user-friendly web interfaces.
 
@@ -35,7 +35,7 @@ const avinash = {
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 
@@ -55,7 +55,7 @@ const avinash = {
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 ```text
 JavaScript
@@ -73,20 +73,20 @@ I'm currently focusing on improving my **JavaScript fundamentals**, DOM manipula
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🎓 Student Result Calculator
+###  Student Result Calculator
 
 > A web-based application for calculating student results using HTML, CSS, and JavaScript.
 
 **Features**
 
-* 👤 Student name input
-* 📝 Five subject marks input
-* 🧮 Total marks calculation
-* 📊 Percentage calculation
-* ✅ Pass / Fail result
-* ⚡ Dynamic result display
+*  Student name input
+*  Five subject marks input
+*  Total marks calculation
+*  Percentage calculation
+*  Pass / Fail result
+*  Dynamic result display
 
 **Tech Stack**
 
@@ -99,9 +99,9 @@ I'm currently focusing on improving my **JavaScript fundamentals**, DOM manipula
 
 ---
 
-## 📂 Other Project
+##  Other Project
 
-### 👨‍🎓 Student Profile Portal
+###  Student Profile Portal
 
 A multi-page responsive student profile portal built using **HTML5 and CSS3**.
 
@@ -116,7 +116,7 @@ A multi-page responsive student profile portal built using **HTML5 and CSS3**.
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Social Media Management Intern
 
@@ -142,7 +142,7 @@ A multi-page responsive student profile portal built using **HTML5 and CSS3**.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Diploma in Computer Science Engineering**
 Currently Pursuing
@@ -157,7 +157,7 @@ Munger University, Bihar
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 * JavaScript ES6 with AI — Unstop
 * CSS with AI — Unstop
@@ -166,7 +166,7 @@ Munger University, Bihar
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinashsingh26&show_icons=true&hide_border=true&count_private=true" />
@@ -178,7 +178,7 @@ Munger University, Bihar
 
 ---
 
-## 🎯 My Development Journey
+##  My Development Journey
 
 ```text
 HTML & CSS              ✅
@@ -210,7 +210,7 @@ Full-Stack Development  🎯
 
 ---
 
-## ⚡ Developer Mindset
+##  Developer Mindset
 
 ```text
 "Don't just learn technology.
@@ -219,7 +219,7 @@ Understand it.
 Improve with every project."
 ```
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
-**I'm learning, building, and improving every day. 🚀**
+**I'm learning, building, and improving every day. **
 
