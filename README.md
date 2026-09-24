@@ -1,130 +1,163 @@
-# Hi, I'm Avinash Singh 👋
+# 👋 Hi, I'm Avinash Singh
 
-### Frontend Developer
+### `Frontend Developer` | `JavaScript Learner` | `Future Full-Stack Developer`
 
-I'm an **Frontend Developer** currently pursuing a Diploma in Computer Science Engineering and building my skills in **HTML, CSS, and JavaScript**.
-
-I enjoy creating clean, responsive, and user-friendly web interfaces and learning new technologies through projects.
-
----
-
-##  About Me
-
-*  Frontend Developer
-*  Currently learning **JavaScript & Frontend Development**
-*  Interested in clean and responsive web design
-*  Learning and practicing **Git & GitHub**
-*  Currently in **Dharamshala, Himachal Pradesh**
-*  Goal: Become a **Full-Stack Developer**
+<p align="left">
+  <a href="https://github.com/avinashsingh26">
+    <img src="https://img.shields.io/github/followers/avinashsingh26?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/avinashsingh26">
+    <img src="https://img.shields.io/github/stars/avinashsingh26?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-##  Technologies & Skills
+## 🚀 About Me
 
-### Frontend
+I'm an aspiring **Frontend Developer** focused on building clean, responsive, and user-friendly web interfaces.
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* DOM Manipulation
-* Responsive Web Design
-* Flexbox & Grid
+I work with **HTML, CSS, and JavaScript** and enjoy turning ideas into practical web projects.
 
-### Tools
+Currently, I'm strengthening my JavaScript fundamentals, improving my Git & GitHub workflow, and working towards becoming a **Full-Stack Developer**.
 
-* Git
-* GitHub
-* Canva
-* MS Office
-* Google Sheets
+```javascript
+const avinash = {
+    role: "Frontend Developer",
+    location: "Dharamshala, India",
+    learning: ["JavaScript", "Frontend Development"],
+    technologies: ["HTML", "CSS", "JavaScript"],
+    tools: ["Git", "GitHub", "Canva"],
+    goal: "Full-Stack Developer",
+    mindset: "Learn • Build • Improve"
+};
+```
 
 ---
 
-##  Projects
+## 💻 Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+JavaScript
+   ↓
+Frontend Development
+   ↓
+React
+   ↓
+Backend Development
+   ↓
+Full-Stack Development
+```
+
+I'm currently focusing on improving my **JavaScript fundamentals**, DOM manipulation, programming logic, and practical project development.
+
+---
+
+## 🚀 Featured Project
 
 ### 🎓 Student Result Calculator
 
-A web-based student result calculator built using **HTML, CSS, and JavaScript**.
+> A web-based application for calculating student results using HTML, CSS, and JavaScript.
 
-**Features:**
+**Features**
 
-* Student name input
-* Five subject marks input
-* Total marks calculation
-* Percentage calculation
-* Pass/Fail result
-* Dynamic result display
+* 👤 Student name input
+* 📝 Five subject marks input
+* 🧮 Total marks calculation
+* 📊 Percentage calculation
+* ✅ Pass / Fail result
+* ⚡ Dynamic result display
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech Stack**
 
-🔗 [GitHub Repository](https://github.com/avinashsingh26/student-result-calculator)
+`HTML` `CSS` `JavaScript`
 
+**Links**
+
+🔗 [Repository](https://github.com/avinashsingh26/student-result-calculator)
 🌐 [Live Demo](https://studentresultcal.netlify.app/)
 
 ---
 
-###  Student Profile Portal
+## 📂 Other Project
+
+### 👨‍🎓 Student Profile Portal
 
 A multi-page responsive student profile portal built using **HTML5 and CSS3**.
 
-**Features:**
+**Highlights**
 
-* Student details
+* Responsive layout
+* Multiple linked pages
+* Student information
 * Academic records
 * Contact forms
-* Linked pages
-* Responsive layout
-* Flexbox/Grid based design
-
-**Technologies:** HTML5, CSS3
+* Flexbox & CSS Grid
 
 ---
 
-##  Experience
+## 💼 Experience
 
 ### Social Media Management Intern
 
 **Anantmool Foundation (NGO)**
-*Jul 2025 – Jan 2026*
+`Jul 2025 – Jan 2026`
 
 * Managed social media presence across LinkedIn, Instagram, and YouTube.
 * Created digital content using Canva.
-* Conducted prospect research.
-* Maintained lead and contact databases.
+* Conducted prospect research and maintained contact databases.
 * Prepared monthly performance reports.
-* Coordinated with the team on campaign tasks.
+* Coordinated with the team on campaign activities.
 
 ### CSC Operator
 
 **Common Service Center (CSC)**
-*Apr 2024 – Dec 2025*
+`Apr 2024 – Dec 2025`
 
-* Handled customer interaction and query resolution.
-* Processed government scheme forms, PAN Card and Aadhaar Card requests.
-* Managed online forms and daily computer operations.
+* Handled customer interactions and query resolution.
+* Processed online forms and government service requests.
+* Managed daily computer operations.
 * Performed basic troubleshooting.
 * Maintained customer records and documentation.
 
 ---
 
-##  Education
+## 🎓 Education
 
 **Diploma in Computer Science Engineering**
 Currently Pursuing
 
 **Bachelor of Arts (Hindi Honours)**
 Munger University, Bihar
-2023 – 2027 | Pursuing
+`2023 – 2027 | Pursuing`
 
-**Class XII** — 2023
-67.3%
+**Class XII** — `2023` | **67.3%**
 
-**Class X** — 2021
-63.7%
+**Class X** — `2021` | **63.7%**
 
 ---
 
-##  Certifications
+## 📜 Certifications
 
 * JavaScript ES6 with AI — Unstop
 * CSS with AI — Unstop
@@ -133,16 +166,60 @@ Munger University, Bihar
 
 ---
 
-##  Connect With Me
+## 📊 GitHub Activity
 
- Email: **[avinashsinghr519@gmail.com](mailto:avinashsinghr519@gmail.com)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashsingh26&show_icons=true&hide_border=true&count_private=true" />
+</p>
 
- [LinkedIn](https://www.linkedin.com/in/avinash-rajput-898086376/)
-
- [GitHub](https://github.com/avinashsingh26)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsingh26&hide_border=true" />
+</p>
 
 ---
 
-###  Thanks for visiting my profile!
+## 🎯 My Development Journey
 
-I'm continuously learning, building projects, and improving my development skills.
+```text
+HTML & CSS              ✅
+JavaScript Fundamentals 🔄
+Frontend Development    🔄
+React                   📌
+Backend Development     📌
+Full-Stack Development  🎯
+```
+
+> **Learn → Practice → Build → Deploy → Improve**
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/avinash-rajput-898086376/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/avinashsingh26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** [avinashsinghr519@gmail.com](mailto:avinashsinghr519@gmail.com)
+
+📍 **Dharamshala, Himachal Pradesh, India**
+
+---
+
+## ⚡ Developer Mindset
+
+```text
+"Don't just learn technology.
+Build with it.
+Understand it.
+Improve with every project."
+```
+
+### ⭐ Thanks for visiting my profile!
+
+**I'm learning, building, and improving every day. 🚀**
+
